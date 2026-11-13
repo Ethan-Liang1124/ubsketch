@@ -1,5 +1,5 @@
 // 1) 到 supabase.com 建立專案，把下面兩個值換成你專案的設定（Project Settings → API）
-export const SUPABASE_URL = 'https://xxxx.supabase.co';
+export const SUPABASE_URL = 'https://YOUR-PROJECT.supabase.co';
 export const SUPABASE_ANON_KEY = 'sb_publishable_8QNKlXyS-eACmazxiYO5bw_3u_dc37X';
 // 地圖初始中心與縮放（會先嘗試改用使用者目前位置）
 export const MAP_CENTER = [23.7, 121.0];
